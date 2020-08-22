@@ -1,0 +1,42 @@
+Flight Number: 1920
+Airlines Name: Turkish Airlines
+Departure: Ankara
+Arrive : London
+Take Off Time : 5
+Departure Time : 2020-06-01 15:05:00
+Arrival Time : 2020-06-01 15:15:00
+Landing Time : 3
+Status : Landing delayed 5 minute! 
+
+
+Flight Number: 4535
+Airlines Name: Qantas Airways
+Departure: Sydney
+Arrive : Singapore
+Status : Flight cancelled! 
+
+
+Flight Number: 6753
+Airlines Name: Delta Airlines
+Departure: Atlanta
+Arrive : Ankara
+Status : Flight cancelled! 
+
+
+Flight Number: 2830
+Airlines Name: Turkish Airlines
+Departure: Ankara
+Arrive : Singapore
+Status : Flight cancelled! 
+
+
+Flight Number: 2341
+Airlines Name: Singapore Airlines
+Departure: Singapore
+Arrive : London
+Take Off Time : 3
+Departure Time : 2020-06-01 16:00:00
+Arrival Time : 2020-06-01 16:15:00
+Landing Time : 3
+Status : Landing delayed 9 minute! 
+
